@@ -1,2 +1,2 @@
 husk tabelltipping
-bug
+bugfix
